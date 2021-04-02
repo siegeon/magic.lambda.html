@@ -8,7 +8,7 @@ This project provides HTML helper slots for Magic. More specifically, it provide
 ## Usage
 
 ```
-.html:@"<html>... some HTML here ... </html>"
+.html:@"<html>... some HTML goes here ... </html>"
 html2lambda:x:-
 ```
 

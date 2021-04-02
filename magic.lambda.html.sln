@@ -11,9 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{0080EF1F-A
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magic.lambda.json", "magic.lambda.json\magic.lambda.json.csproj", "{80E6474F-903A-4981-956D-F7831538C38F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magic.lambda.html", "magic.lambda.html\magic.lambda.html.csproj", "{80E6474F-903A-4981-956D-F7831538C38F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magic.lambda.json.tests", "magic.lambda.json.tests\magic.lambda.json.tests.csproj", "{CF60F819-466A-4E92-A80F-A4FFAD8FC09E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magic.lambda.html.tests", "magic.lambda.html.tests\magic.lambda.html.tests.csproj", "{CF60F819-466A-4E92-A80F-A4FFAD8FC09E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

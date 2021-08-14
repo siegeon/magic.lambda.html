@@ -10,7 +10,7 @@
     <Description>JSON helper slots for Magic to help you transform HTML to lambda. To use package go to https://polterguy.github.io</Description>
     <PackageProjectUrl>https://github.com/polterguy/magic.lambda.html</PackageProjectUrl>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>9.2.0</PackageVersion>
+    <PackageVersion>9.6.6</PackageVersion>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/polterguy/magic.lambda.html.git</RepositoryUrl>

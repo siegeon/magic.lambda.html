@@ -46,7 +46,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="HtmlAgilityPack" Version="1.11.38" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.39" />
     <PackageReference Include="magic.node.extensions" Version="10.0.7" />
     <PackageReference Include="magic.signals.contracts" Version="10.0.7" />
   </ItemGroup>
